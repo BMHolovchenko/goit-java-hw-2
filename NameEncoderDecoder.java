@@ -1,5 +1,3 @@
-package m2l2;
-
 public class NameEncoderDecoder {
     public String encode(String name){
         String codeName = name.replace("a", "5")
